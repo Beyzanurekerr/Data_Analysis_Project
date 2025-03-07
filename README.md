@@ -28,13 +28,3 @@ This project aims to analyze student data and predict dropout rates and academic
 ### 3. **Age at Enrollment and Unemployment Rate Relationship**
    - **Purpose**: This scatterplot shows the relationship between students' age at enrollment and unemployment rate. The "Gender" variable is also represented by different colors, allowing us to observe how this relationship varies across genders.
    ![indir (1)](https://github.com/user-attachments/assets/88a7cbab-4d0e-410f-91d4-17e65f5e2697)
-
-
-## Usage
-
-1. Open the `analysis.ipynb` file.
-2. Run the cells to perform data analysis and view the results.
-
-## License
-
-This project is licensed under the MIT License.
